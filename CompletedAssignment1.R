@@ -1,6 +1,6 @@
 # Assignment 1
 # Michael Carpenter
-# 5/17/2026
+# 9/5/2026
 # R script to sample a vector, calc descriptive stat, and output data as tibble.
 
 
